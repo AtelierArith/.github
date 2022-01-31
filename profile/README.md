@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We visualize various mathematical phenomena by programming, and support people who approach these phenomena. The target of our support is not only people who want to learn mathematics and other sciences, but also people who have already learned mathematics, giving them an opportunity to provide a new perspective. We call it as `Alith`.
+We visualize various mathematical phenomena by programming, and support people who approach these phenomena. The target of our support is not only people who want to learn mathematics and other sciences, but also people who have already learned mathematics, giving them an opportunity to provide a new perspective. We call it as `Arith`.
 
 The materials used here are so simple, but we aim to make more advanced content into art through future activities. The atelier where the art will be displayed will be on the Internet. We plan to use cloud computing resources to build the atelier.
 
