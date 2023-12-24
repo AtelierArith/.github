@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-This organization is operated for [my personal use](https://github.com/terasakisatoshi).
+This organization is primarily operated for [my personal use](https://github.com/terasakisatoshi).
 
-We visualize various mathematical phenomena by programming, and support people who approach these phenomena. The target of our support is not only people who want to learn mathematics and other sciences, but also people who have already learned mathematics, giving them an opportunity to provide a new perspective. We call it as `Arith`.
+We engage in programming to visualize various mathematical phenomena and provide support to individuals interested in exploring these phenomena. Our support is aimed not only at those who wish to learn mathematics and other sciences but also at those who have already mastered mathematics, offering them a fresh perspective. We refer to this endeavor as `Arith`.
 
-The materials used here are so simple, but we aim to make more advanced content into art through future activities. The atelier where the art will be displayed will be on the Internet. We plan to use cloud computing resources to build the atelier.
+While the materials we use may be simple, our future activities aim to elevate more advanced content into an art form. The virtual art gallery where our creations will be showcased will exist on the Internet, and we plan to leverage cloud computing resources to establish and maintain it.
 
-In order to maintain the atelier, we need to maintain the rent of the atelier (technically, the fee for using GitHub, Google, AWS) and a painter (a programmer who is interested in visualization).
-
+To sustain the virtual gallery, we require funds for its upkeep, including expenses related to maintaining the gallery (such as fees for using GitHub, Google, AWS) and the services of a 'painter' (a programmer with an interest in visualization).
 <!--
 
 **Here are some ideas to get you started:**
